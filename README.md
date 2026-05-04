@@ -28,6 +28,11 @@ Provides basic summary statistics (mean, median, min, max, standard deviation).
 ### stress_summary()
 Summarizes study hours, sleep, and GPA by stress level.
 
+### student_profile()
+Creates a student profile object using an S3 class.
+
+### print.student_profile()
+Custom print method for displaying a student profile.
 
 
 ## Example Usage
